@@ -1,205 +1,204 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "name": "Laptop",
-        "description": "A high-performance laptop for professionals.",
-        "price": 1200,
-        "currency": "USD",
-        "inStock": true,
-        "category": "Electronics",
-        "image": "https://example.com/images/laptop.png"
-      },
-      {
-        "id": 2,
-        "name": "Smartphone",
-        "description": "Latest smartphone with advanced features.",
-        "price": 800,
-        "currency": "USD",
-        "inStock": false,
-        "category": "Electronics",
-        "image": "https://example.com/images/smartphone.png"
-      },
-      {
-        "id": 3,
-        "name": "Wireless Headphones",
-        "description": "Noise-cancelling wireless headphones.",
-        "price": 200,
-        "currency": "USD",
-        "inStock": true,
-        "category": "Accessories",
-        "image": "https://example.com/images/headphones.png"
-      },
-      {
-        "id": 4,
-        "name": "Office Chair",
-        "description": "Ergonomic office chair with lumbar support.",
-        "price": 150,
-        "currency": "USD",
-        "inStock": true,
-        "category": "Furniture",
-        "image": "https://example.com/images/office_chair.png"
-      },
-      {
-        "id": 5,
-        "name": "Coffee Maker",
-        "description": "Automatic coffee maker with grinder.",
-        "price": 90,
-        "currency": "USD",
-        "inStock": true,
-        "category": "Home Appliances",
-        "image": "https://example.com/images/coffee_maker.png"
-      },
-      {
-        "id": 6,
-        "name": "Gaming Monitor",
-        "description": "27-inch 144Hz gaming monitor.",
-        "price": 350,
-        "currency": "USD",
-        "inStock": false,
-        "category": "Electronics",
-        "image": "https://example.com/images/gaming_monitor.png"
-      },
-      {
-        "id": 7,
-        "name": "Bluetooth Speaker",
-        "description": "Portable Bluetooth speaker with deep bass.",
-        "price": 120,
-        "currency": "USD",
-        "inStock": true,
-        "category": "Accessories",
-        "image": "https://example.com/images/bluetooth_speaker.png"
-      },
-      {
-        "id": 8,
-        "name": "Smartwatch",
-        "description": "Fitness tracking smartwatch with heart-rate monitor.",
-        "price": 250,
-        "currency": "USD",
-        "inStock": true,
-        "category": "Wearables",
-        "image": "https://example.com/images/smartwatch.png"
-      },
-      {
-        "id": 9,
-        "name": "Electric Kettle",
-        "description": "Fast-boiling electric kettle.",
-        "price": 40,
-        "currency": "USD",
-        "inStock": true,
-        "category": "Home Appliances",
-        "image": "https://example.com/images/electric_kettle.png"
-      },
-      {
-        "id": 10,
-        "name": "Desk Lamp",
-        "description": "LED desk lamp with adjustable brightness.",
-        "price": 30,
-        "currency": "USD",
-        "inStock": true,
-        "category": "Furniture",
-        "image": "https://example.com/images/desk_lamp.png"
-      },
-      {
-        "id": 11,
-        "name": "Yoga Mat",
-        "description": "Non-slip yoga mat for comfortable workouts.",
-        "price": 25,
-        "currency": "USD",
-        "inStock": true,
-        "category": "Fitness",
-        "image": "https://example.com/images/yoga_mat.png"
-      },
-      {
-        "id": 12,
-        "name": "Running Shoes",
-        "description": "Lightweight running shoes for everyday use.",
-        "price": 110,
-        "currency": "USD",
-        "inStock": false,
-        "category": "Footwear",
-        "image": "https://example.com/images/running_shoes.png"
-      },
-      {
-        "id": 13,
-        "name": "Electric Drill",
-        "description": "Cordless electric drill with multiple attachments.",
-        "price": 70,
-        "currency": "USD",
-        "inStock": true,
-        "category": "Tools",
-        "image": "https://example.com/images/electric_drill.png"
-      },
-      {
-        "id": 14,
-        "name": "Blender",
-        "description": "High-speed blender for smoothies and shakes.",
-        "price": 60,
-        "currency": "USD",
-        "inStock": true,
-        "category": "Home Appliances",
-        "image": "https://example.com/images/blender.png"
-      },
-      {
-        "id": 15,
-        "name": "Tablet",
-        "description": "10-inch tablet for work and play.",
-        "price": 300,
-        "currency": "USD",
-        "inStock": true,
-        "category": "Electronics",
-        "image": "https://example.com/images/tablet.png"
-      },
-      {
-        "id": 16,
-        "name": "Camera",
-        "description": "Digital camera with 20MP resolution.",
-        "price": 500,
-        "currency": "USD",
-        "inStock": false,
-        "category": "Electronics",
-        "image": "https://example.com/images/camera.png"
-      },
-      {
-        "id": 17,
-        "name": "Sunglasses",
-        "description": "UV protection sunglasses with stylish frame.",
-        "price": 50,
-        "currency": "USD",
-        "inStock": true,
-        "category": "Accessories",
-        "image": "https://example.com/images/sunglasses.png"
-      },
-      {
-        "id": 18,
-        "name": "Backpack",
-        "description": "Durable backpack with multiple compartments.",
-        "price": 80,
-        "currency": "USD",
-        "inStock": true,
-        "category": "Accessories",
-        "image": "https://example.com/images/backpack.png"
-      },
-      {
-        "id": 19,
-        "name": "Water Bottle",
-        "description": "Insulated water bottle with 1L capacity.",
-        "price": 20,
-        "currency": "USD",
-        "inStock": true,
-        "category": "Fitness",
-        "image": "https://example.com/images/water_bottle.png"
-      },
-      {
-        "id": 20,
-        "name": "Wireless Mouse",
-        "description": "Ergonomic wireless mouse with fast response.",
-        "price": 40,
-        "currency": "USD",
-        "inStock": true,
-        "category": "Electronics",
-        "image": "https://example.com/images/wireless_mouse.png"
-      }
-    ]
-  }
-  
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "A high-performance laptop for professionals.",
+      "price": 1200,
+      "currency": "USD",
+      "inStock": true,
+      "category": "Electronics",
+      "image": "https://th.bing.com/th/id/OIP.okPHK-lOk_E5nzOZsGx2dwHaFI?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "description": "Latest smartphone with advanced features.",
+      "price": 800,
+      "currency": "USD",
+      "inStock": false,
+      "category": "Electronics",
+      "image": "https://cdn.neodrafts.com/uploads/2020/09/apple-iphone-12-pro-max-4-camera-set-up-concept-in-all-colors-3d-model-low-poly-obj-fbx-blend-dae-bip-1536x1152.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Wireless Headphones",
+      "description": "Noise-cancelling wireless headphones.",
+      "price": 200,
+      "currency": "USD",
+      "inStock": true,
+      "category": "Accessories",
+      "image": "https://t3.ftcdn.net/jpg/05/95/78/78/360_F_595787852_efGpIfJmAJxcof7PBsQsDmirsZ3R8o50.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Office Chair",
+      "description": "Ergonomic office chair with lumbar support.",
+      "price": 150,
+      "currency": "USD",
+      "inStock": true,
+      "category": "Furniture",
+      "image": "https://www.smmbdstore.com/wp-content/uploads/2023/10/A3903-1-Blue.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Coffee Maker",
+      "description": "Automatic coffee maker with grinder.",
+      "price": 90,
+      "currency": "USD",
+      "inStock": true,
+      "category": "Home Appliances",
+      "image": "https://www.google.com/search?q=coffee+maker+picture&oq=Coffee+Maker+pic&gs_lcrp=EgZjaHJvbWUqCQgAEAAYExiABDIJCAAQABgTGIAEMgsIARBFGB"
+    },
+    {
+      "id": 6,
+      "name": "Gaming Monitor",
+      "description": "27-inch 144Hz gaming monitor.",
+      "price": 350,
+      "currency": "USD",
+      "inStock": false,
+      "category": "Electronics",
+      "image": " https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ubuy.com.bd%2Fen%2Fproduct%2FLSEOFWQRA-koorui-27-inch-gaming-monitor-144hz-qhd2560-x-1440p-2k-1ms-hdr10-dci-p3-90-color-gamut-adaptive-g-sync-freesync-premium-hdmi-x-2-displayport&psig=AOvVaw2yGPkhdZpnT6y0XPSWGxDz&ust=1729855814488000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNi7qZ31pokDFQAAAAAdAAAAABAJ"
+    },
+    {
+      "id": 7,
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with deep bass.",
+      "price": 120,
+      "currency": "USD",
+      "inStock": true,
+      "category": "Accessories",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artis.in%2Fproducts%2Fsoundpro-20-5w-tws-portable-5-0-bluetooth-speaker-black&psig=AOvVaw2t-KShzbCrTvPb8kOEJajL&ust=1729857161412000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKicxKb6pokDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 8,
+      "name": "Smartwatch",
+      "description": "Fitness tracking smartwatch with heart-rate monitor.",
+      "price": 250,
+      "currency": "USD",
+      "inStock": true,
+      "category": "Wearables",
+      "image": "https://www.google.com/search?q=martwatch+picture&oq=martwatch+picture&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTILCAEQABgNGBMYgAQyCwgCEAAYDRgTGIAEMgoIAxAAGBMYFhgeMgoIBBAAGBMYFhgeMgoIBRAAGBMYFhgeMgoIBhAAGBMYFhgeMgoIBxAAGBMYFhgeMgoICBAAGBMYFhgeMg4ICRAAGAoYDxgTGBYYHtIBCjE2MjU4ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8#vhid=3PszWr4atanlEM&vssid=_ezUaZ9DTHvGbseMPrJ2j-QY_33"
+    },
+    {
+      "id": 9,
+      "name": "Electric Kettle",
+      "description": "Fast-boiling electric kettle.",
+      "price": 40,
+      "currency": "USD",
+      "inStock": true,
+      "category": "Home Appliances",
+      "image": "https://www.daraz.com.bd/products/18l-vis-ek-005-i107990862-s1023480893.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253A%253Bnid%253A107990862%253Bsrc%253ALazadaMainSrp%253Brn%253A0e4d422ca014e7a90261bd8c0fedd538%253Bregion%253Abd%253Bsku%253A107990862_BD%253Bprice%253A1000%253Bclient%253Adesktop%253Bsupplier_id%253A1011125%253Bbiz_source%253Ah5_external%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A289%253Bitem_id%253A107990862%253Bsku_id%253A1023480893%253Bshop_id%253A17254%253BtemplateInfo%253A-1_A3%25231103_B_L%2523&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Dhaka&price=1E%203&priceCompare=skuId%3A1023480893%3Bsource%3Alazada-search-voucher%3Bsn%3A0e4d422ca014e7a90261bd8c0fedd538%3BunionTrace%3A2140e85217297712827485943e9ee9%3BoriginPrice%3A100000%3BvoucherPrice%3A100000%3BdisplayPrice%3A100000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A1%3BbuyerId%3A0%3Btimestamp%3A1729771282935&ratingscore=4.5568965517241375&request_id=0e4d422ca014e7a90261bd8c0fedd538&review=1740&sale=7501&search=1&source=search&spm=a2a0e.searchlistcategory.list.0&stock=1"
+    },
+    {
+      "id": 10,
+      "name": "Desk Lamp",
+      "description": "LED desk lamp with adjustable brightness.",
+      "price": 30,
+      "currency": "USD",
+      "inStock": true,
+      "category": "Furniture",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fdesk-lamp%3Fpage%3D2&psig=AOvVaw0rSOfZUkxFRIqG9AtKqOCC&ust=1729857844245000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiTtOr8pokDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 11,
+      "name": "Yoga Mat",
+      "description": "Non-slip yoga mat for comfortable workouts.",
+      "price": 25,
+      "currency": "USD",
+      "inStock": true,
+      "category": "Fitness",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fyoga-mat&psig=AOvVaw0NJogbRZwwpSu3iiAekW9H&ust=1729857948726000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMj7t7b9pokDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 12,
+      "name": "Running Shoes",
+      "description": "Lightweight running shoes for everyday use.",
+      "price": 110,
+      "currency": "USD",
+      "inStock": false,
+      "category": "Footwear",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.irunfar.com%2Fbest-trail-running-shoes&psig=AOvVaw0wnDqmIjoRk5FVZ7lXUul0&ust=1729858100563000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjSpeX9pokDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 13,
+      "name": "Electric Drill",
+      "description": "Cordless electric drill with multiple attachments.",
+      "price": 70,
+      "currency": "USD",
+      "inStock": true,
+      "category": "Tools",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Felectric-drill&psig=AOvVaw0-MMChHVDRbtpHeGnlFEEL&ust=1729858237153000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLj37Kf-pokDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 14,
+      "name": "Blender",
+      "description": "High-speed blender for smoothies and shakes.",
+      "price": 60,
+      "currency": "USD",
+      "inStock": true,
+      "category": "Home Appliances",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fkitchen-blender&psig=AOvVaw2xUYMI6rCqvmdRh3rPRMEN&ust=1729858329300000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCID17c7-pokDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 15,
+      "name": "Tablet",
+      "description": "10-inch tablet for work and play.",
+      "price": 300,
+      "currency": "USD",
+      "inStock": true,
+      "category": "Electronics",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FKeyboard-Android-Tablets-Tableta-Computer%2Fdp%2FB0BVW46L7C&psig=AOvVaw2a6QTZIm9BfHdW38e0_BTP&ust=1729858405366000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDGzvv-pokDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 16,
+      "name": "Camera",
+      "description": "Digital camera with 20MP resolution.",
+      "price": 500,
+      "currency": "USD",
+      "inStock": false,
+      "category": "Electronics",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.minoltadigital.com%2Fcameras-cat%2Fminolta-mn40z&psig=AOvVaw1go-d9P1amuuiq0VB7tME4&ust=1729858495117000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLi6xZz_pokDFQAAAAAdAAAAABAJ"
+    },
+    {
+      "id": 17,
+      "name": "Sunglasses",
+      "description": "UV protection sunglasses with stylish frame.",
+      "price": 50,
+      "currency": "USD",
+      "inStock": true,
+      "category": "Accessories",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Funique-and-stylish-uv-protection-sunglasses-frame-for-mens-and-womens-21043534573.html&psig=AOvVaw02mIQ7_tyrL7kDev_OnH05&ust=1729859543965000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMi93pCDp4kDFQAAAAAdAAAAABAQ"
+    },
+    {
+      "id": 18,
+      "name": "Backpack",
+      "description": "Durable backpack with multiple compartments.",
+      "price": 80,
+      "currency": "USD",
+      "inStock": true,
+      "category": "Accessories",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Fgallery%2Fbest-backpacks-for-college%2F&psig=AOvVaw0UxS8yNgFtkKhHjkgrchEN&ust=1729859643961000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPi2wsKDp4kDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 19,
+      "name": "Water Bottle",
+      "description": "Insulated water bottle with 1L capacity.",
+      "price": 20,
+      "currency": "USD",
+      "inStock": true,
+      "category": "Fitness",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmonos.com%2Fproducts%2Fkiyo-uvc-water-bottle&psig=AOvVaw0axliTymFGV7K4I-s1PHu3&ust=1729859746096000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODR8PaDp4kDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 20,
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with fast response.",
+      "price": 40,
+      "currency": "USD",
+      "inStock": true,
+      "category": "Electronics",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.sa%2F-%2Fen%2Fcimetech-TM002-wirelessmouse-us-Wireless-2-4G-Mouse%2Fdp%2FB07T8HFPDM&psig=AOvVaw2bshJ06VDjZ34j4ezFSh_Q&ust=1729859836708000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjriZ-Ep4kDFQAAAAAdAAAAABAE"
+    }
+  ]
+}

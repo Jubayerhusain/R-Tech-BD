@@ -1,13 +1,28 @@
-import { useEffect } from "react";
+/* eslint-disable react-hooks/exhaustive-deps */
+/* eslint-disable react/jsx-key */
+/* eslint-disable no-unused-vars */
+import { useEffect, useState } from "react";
+import Product from "./../singleProducts/Product";
 
-const Products = () => {
-    const [allProducts, setAllProducts] = ([]);
-    useEffect(()=>{
-        fetch(``)
-    } ,[])
+const Products = ({displayAddToCart}) => {
+  const [allProducts, setAllProducts] = useState([]);
+  // console.log(allProducts)
+  useEffect(() => {
+    fetch(`allProduct.json`)
+      .then((response) => response.json())
+      .then((data) => setAllProducts(data.products));
+  }, []);
   return (
-    <div className="border-2 border-gray-700 rounded-xl">
-      <h1>Display All product</h1>
+    <div className="shadow-xl rounded-xl h-full">
+      <div className="text-center m-10 py-5">
+        <h1 className="text-green-500 font-semibold text-2xl">Display All product</h1>
+        <h1>Product length: {allProducts.length}</h1>
+      </div>
+      <div className="grid grid-cols-2 gap-5 p-5">
+        {allProducts.map((p) => (
+          <Product displayAddToCart={displayAddToCart} Product={p}></Product>
+        ))}
+      </div>
     </div>
   );
 };
