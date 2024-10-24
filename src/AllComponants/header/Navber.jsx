@@ -7,12 +7,12 @@ const Navber = () => {
           type="search"
           placeholder="search product"
         />
-        <div className="text-xl font-semibold text-gray-700 flex">
-          <p className="mx-2">
+        <div className="text-lg font-normal text-gray-700 flex">
+          <p className="mx-2 border-2 border-gray-500 rounded-md p-2">
             Added:<span>10</span>
           </p>
-          <p>
-            price:<span>500</span>$
+          <p className="border-2 border-gray-500 p-2 rounded-md">
+            Price:<span>500</span>$
           </p>
         </div>
       </div>
