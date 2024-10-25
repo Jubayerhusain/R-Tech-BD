@@ -28,11 +28,10 @@ function App() {
     const newCart = [...addToCart, product];
     setAddToCart(newCart);
   };
-  console.log(addToCart);
   return (
     <>
       {/* navber sectino start  */}
-      <Navber></Navber>
+      <Navber addToCart ={addToCart}></Navber>
       {/* navber sectino close */}
       {/* main section start  */}
       <main>

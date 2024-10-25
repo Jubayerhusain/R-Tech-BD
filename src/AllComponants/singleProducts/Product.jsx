@@ -1,6 +1,6 @@
 const Product = ({ Product,displayAddToCart }) => {
   // console.log(Product);
-  const { id, name, description, price, currency, inStock, category, image } =
+  const { name, description, price, currency, inStock, image } =
     Product;
   // console.log(image)
   return (
